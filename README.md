@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GuardianTrustModel
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# GuardianTrustModel
+>>>>>>> 263f2db720848573d2dda63fb739d811a7426b80
